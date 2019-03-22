@@ -111,7 +111,7 @@ Here are the steps:
 - Learn basic knowledge about [[http://en.wikipedia.org/wiki/Environment_variable][environment variable]] and [[http://en.wikipedia.org/wiki/Redirection_%28computing%29][pipe]]
 - Read the official tutorial
 - Use [[http://www.emacswiki.org/emacs/OrgMode][org-mode]]
-- The only hotkey you need learn in org-mode is TAB key
+- The only hotkey you need in org-mode is TAB key
 
 Use Emacs in this way for several days in order to understand:
 - Why people love Emacs
