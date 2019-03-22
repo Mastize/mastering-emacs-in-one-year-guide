@@ -378,7 +378,7 @@ If I cannot win, the only strategy is to join him, that's why I clone his setup 
 
 So don't run away from the master's huge setup. Regard it as a challenge to improve yourself.
 ** Why I cannot add my own plugins into master's setup
-Though the quality of Emacs plugins are generally good, they may have compatibility issues. It's usually because plugins are developed by different people. For example, both [[https://github.com/auto-complete][auto-complete]] and [[https://github.com/capitaomorte/yasnippet][yasnippet]] will use TAB key to expand code. So there is conflict if I use both plugins.
+Though the quality of Emacs plugins are generally good, they may have compatibility issues. For example, both [[https://github.com/auto-complete][auto-complete]] and [[https://github.com/capitaomorte/yasnippet][yasnippet]] will use TAB key to expand code. So there is conflict if I use both plugins.
 
 That's another reason to stick to the master's setup at the beginning.
 ** How to use Emacs on windows
